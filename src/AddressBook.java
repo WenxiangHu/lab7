@@ -1,8 +1,11 @@
 import java.util.Iterator;
 
 /**
-   An address book for looking up information about people.
-*/
+ * 
+ * 
+ * @author wenxiang
+ *
+ */
 public interface AddressBook {
 
    /** 
